@@ -1,3 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peroxaan Shutdown</title>
+    <style>
+        body {
+            background-color: #222; /* Dark background color */
+            color: #fff; /* Light text color */
+            font-family: Arial, sans-serif; /* Specify font family */
+            padding: 20px; /* Add padding for content */
+        }
+        /* Style headings */
+        h1 {
+            color: #ff9800; /* Custom color for h1 */
+        }
+        h2 {
+            color: #f2f2f2; /* Custom color for h2 */
+        }
+        /* Style links */
+        a {
+            color: #00bcd4; /* Custom color for links */
+        }
+        /* Style lists */
+        ul {
+            list-style-type: square; /* Use square bullets for unordered lists */
+        }
+        /* Style blockquotes */
+        blockquote {
+            background-color: #444; /* Darker background color for blockquotes */
+            color: #ccc; /* Lighter text color for blockquotes */
+            padding: 10px; /* Add padding for blockquotes */
+            border-left: 5px solid #ff9800; /* Custom border color for blockquotes */
+        }
+    </style>
+</head>
+<body>
+
 ---
 title: The Impact of Shutdowns: Navigating Turbulent Times
 date: February 7, 2024
@@ -52,3 +91,5 @@ While shutdowns are inevitable, resilience is key to overcoming adversity and em
 Shutdowns are disruptive and challenging, but they also present opportunities for growth and transformation. By understanding their impact, implementing adaptation strategies, and fostering resilience, we can navigate through shutdowns with resilience and emerge stronger on the other side.
 
 Remember, in times of crisis, solidarity, innovation, and perseverance can carry us through even the darkest of times.
+</body>
+</html>
