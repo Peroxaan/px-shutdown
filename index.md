@@ -1,4 +1,4 @@
-# The Impact of Shutdowns: Navigating Turbulent Times
+# The Shut Down: Making Way for Something New
 
 After a solid 6.5 years of starting projects, messing around, releasing things, and having fun - it is finally time for Peroxaan to shut down.
 
