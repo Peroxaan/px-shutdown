@@ -37,11 +37,6 @@
 </head>
 <body>
 
----
-title: The Impact of Shutdowns: Navigating Turbulent Times
-date: February 7, 2024
----
-
 # The Impact of Shutdowns: Navigating Turbulent Times
 
 In today's interconnected world, shutdowns have become an unavoidable reality. Whether it's due to a global pandemic, political unrest, or economic instability, shutdowns can disrupt lives, businesses, and entire societies. Understanding their impact and learning how to navigate through them is crucial for resilience and adaptability.
