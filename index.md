@@ -3,7 +3,7 @@
 After a solid 6.5 years of starting projects, messing around, releasing things, and having fun - it is finally time for Peroxaan to shut down.
 
 ## The Beginning
-I started Peroxaan when I was 12 years old, just as a brand to mess around and showcase things I was working on. I started off making little drawing apps for Windows in JavaFX, to making a website to mess with Discord webhooks (eventually became the app Talon), and had a bunch of random projects in between. I met a lot of people and had a lot of fun, and eventually got into making iOS apps in late 2019, which is how most of you discovered Peroxaan.
+I started Peroxaan Studios when I was 12 years old, just as a brand to mess around and showcase things I was working on. I started off making little drawing apps for Windows in JavaFX, to making a website to mess with Discord webhooks (eventually became the app Talon), and had a bunch of random projects in between. I met a lot of people and had a lot of fun, and eventually got into making iOS apps in late 2019, which is how most of you discovered Peroxaan.
 
 ## Reflecting
 Making iOS apps was a great outlet for me, and it allowed me to put my skills to work, creating things that a lot of people used - and these skills will undoubtedly last a life time. I’ve experimented with a lot of different apps, most of them never leaving TestFlight - but it was just fun to work on things, especially considering the context of the Covid Pandemic. Between Talon being on the front page of the Mac App Store for multiple weeks, to Talon being shown in the March 2022 Apple Event, to all of the mentions of Ruby in various news articles - it truly has been a joy.
@@ -27,6 +27,6 @@ Ruby will continue to be personally maintained by me! Currently working on a new
 
 ## The End
 
-Many of you who’ve known me for years might be reading this as disappointing news, but I’m honestly really excited for what moving on will allow me to build. An archive of the Peroxaan website will be available [here](https://archive.peroxaan.com).
+Some of you who’ve known me for years might be reading this as disappointing news, but I’m honestly really excited for what moving on will allow me to build. An archive of the Peroxaan website will be available [here](https://archive.peroxaan.com).
 
 Rest in Peace Peroxaan, 7/12/17-2/20/24. While this is the end of Peroxaan, it’s really just a new beginning for me. Truly excited to share what I have planned for 2024.
