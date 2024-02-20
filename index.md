@@ -29,4 +29,4 @@ Ruby will continue to be personally maintained by me! Currently working on a new
 
 Some of you who’ve known me for years might be reading this as disappointing news, but I’m honestly really excited for what moving on will allow me to build. An archive of the Peroxaan website will be available [here](https://archive.peroxaan.com).
 
-Rest in Peace Peroxaan, 7/12/17-2/20/24. While this is the end of Peroxaan, it’s really just a new beginning for me. Truly excited to share what I have planned for 2024.
+Rest in Peace Peroxaan, 7/12/17-2/20/24. While this is the end of Peroxaan, it’s really just a new beginning for me. Truly excited to share what I have planned for 2024!
